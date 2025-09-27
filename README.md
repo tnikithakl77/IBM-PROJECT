@@ -35,6 +35,7 @@ JavaScript (ES6) – Logic & Local Storage
 🎯 How to Use
 
 Clone this repository:
+ link for the site: http://localhost:8081/
 
 📝 Future Improvements
 
