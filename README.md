@@ -36,6 +36,7 @@ JavaScript (ES6) – Logic & Local Storage
 
 Clone this repository:
  link for the site: http://localhost:8081/
+ http://192.168.64.165:8080/
 
 📝 Future Improvements
 
